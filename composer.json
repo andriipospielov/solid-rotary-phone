@@ -1,0 +1,14 @@
+{
+    "name": "andrii/tripsorter",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "app/controllers/",
+            "app/models/"
+        ],
+
+        "files":[
+            "app/views/header.html"
+        ]
+    }
+}
